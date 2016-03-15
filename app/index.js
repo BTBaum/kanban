@@ -1,5 +1,5 @@
 var component = require('./component');
-var app = document.createElemnt('div');
+var app = document.createElement('div');
 
 document.body.appendChild(app);
 
